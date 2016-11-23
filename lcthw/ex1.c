@@ -10,3 +10,8 @@ int main(int argc, char *argv[])
 
 	return 0;
 }
+
+/*
+You are 100 miles away.
+ */
+
